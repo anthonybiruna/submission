@@ -8,12 +8,12 @@
 }
 
 .item{
-    width: 100px;
-    height: 300px;
-    margin-left: 500px;
+    width: 500px;
+    height: 600px;
+    margin-left: 20px;
     display: inline-block;
+    
 }
-
 
 .go-back{
     width: 100px;
@@ -33,19 +33,19 @@
     
 }
 
-.product-name-color{
+#product-name-color{
     font-size: 36px;
     font-weight: lighter;
     color: black;
 }
 
-.product-name-type{
+#product-name-type{
     font-size: 36px;
     font-weight: bold; 
     color: black;
 }
 
-.price{
+#price{
     width: 103px;
     height: 31px;
     margin-top: 31px;
@@ -55,7 +55,7 @@
    
 }
 
-.description{
+#description{
     width: 346px;
     height: 131px;
     margin-top: 48px;
@@ -73,13 +73,13 @@
     
 }
 
-.size{
+#size{
     font-size: smaller;
     font-weight: lighter;
     color: gray;
 }
 
-.medium{
+#medium{
     font-size: 30px;
     font-weight: bold;
     color: black;
@@ -92,13 +92,13 @@
     margin-left: 977px;
 }
 
-.mens{
+#mens{
     font-size: smaller;
     font-weight: lighter;
     color: gray;
 }
 
-.cutton{
+#cutton{
     font-size: smaller;
     font-weight: lighter;
     color: gray;
@@ -114,7 +114,7 @@
     padding: 15px 30px;
 }
 
-.add{
+#add{
     font-size: 13px;
     font-weight: bold;
     color: white;
